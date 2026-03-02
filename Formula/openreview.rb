@@ -1,8 +1,8 @@
 class Openreview < Formula
   desc "Local web app for reviewing project changes"
   homepage "https://github.com/SergioGhisler/openreview"
-  url "https://github.com/SergioGhisler/openreview/archive/refs/tags/v1.0.0.tar.gz"
-  sha256 "4115bf088409f58a04933e24dec3511a18155ebb56ac5ab48c5e15f504cc3a97"
+  url "https://github.com/SergioGhisler/openreview/archive/refs/tags/v0.0.1.tar.gz"
+  sha256 "424907ac50db78c42ffa5f064567bedd42ef1d8163747e4817c48f47eaa496db"
   license "MIT"
 
   depends_on "node"
